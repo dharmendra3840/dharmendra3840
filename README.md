@@ -1,75 +1,88 @@
-<h1 align="center">Hello, I'm Dharmendra Kumar Mahato 👋</h1>
-<h3 align="center">Full-Stack Developer | Database Specialist</h3>
+# 💻 Dharmendra Kumar Mahato
+#### *Full-Stack Engineer | JavaScript Specialist | Web Solutions Architect*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dharmendra3840&color=red" alt="Profile views" />
+  
+[![Visits](https://komarev.com/ghpvc/?username=dharmendra3840&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/dharmendra3840)
+[![Followers](https://img.shields.io/github/followers/dharmendra3840?label=Follow&style=social)](https://github.com/dharmendra3840?tab=followers)
+[![Hireable](https://img.shields.io/badge/Available%20for%20Work-Yes-success)](mailto:dharmendrak3327mahato@gmail.com)
+
 </div>
 
-I'm a passionate developer focused on creating robust and scalable web applications. My expertise spans both front-end and back-end technologies, allowing me to deliver comprehensive solutions.
+## 🚀 Technical Arsenal
 
-**Skills:** C / C++ / React / MERN Stack / Bootstrap / Tailwind CSS / JavaScript / HTML / CSS
+### **Frontend Development**
+<div align="left">
+  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🔭 Currently enhancing my skills with Backend projects and exploring advanced concepts in Three.js.
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/dharmendra3840)
-- 💬 Let's discuss **JavaScript, React, and Express** development strategies!
-- 📫 Reach out: [dharmendrak3327mahato@gmail.com](mailto:dharmendrak3327mahato@gmail.com)
+</div>
 
-<h3 align="left">Connect with me:</h3>
+### **Backend Development**
+<div align="left">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p align="center">
-  <a href="https://fb.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/dharmendra-kumar-mahato-841614274/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+</div>
 
-## Tech Stack
+### **DevOps & Tools**
+<div align="left">
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Here are some of the technologies I love working with:
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/-Axios-FF4154?style=for-the-badge&logo=axios&logoColor=white" alt="React Query"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+## 🏆 Featured Projects
 
-<br/>
+### 1. [Magical Flask Game](https://github.com/dharmendra3840/Magical-Flask-Game)
+**Tech Stack:** Python, Flask, JavaScript  
+▶ Interactive game engine demonstrating advanced backend architecture  
+▶ Implemented real-time scoring system and user authentication  
 
-## Featured Project
+### 2. [E-Commerce Dashboard](https://github.com/dharmendra3840)
+**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)  
+▶ Full-featured admin dashboard with analytics  
+▶ JWT authentication and role-based access control  
 
-**[Magical-Flask-Game](https://github.com/dharmendra3840/Magical-Flask-Game)** - A captivating game built with Flask, showcasing my back-end development skills.
+### 3. [Portfolio 3.0](https://github.com/dharmendra3840)
+**Tech Stack:** Next.js, Three.js, Framer Motion  
+▶ Modern portfolio with 3D visualizations  
+▶ Server-side rendering for optimal performance  
 
-<p align="left">
-  Explore all my repositories: <a href="https://github.com/dharmendra3840?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+## 📊 GitHub Analytics
 
-<br/>
-<hr/>
-<br/>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmendra3840&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra3840&layout=compact&theme=radical&langs_count=8)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dharmendra3840&theme=radical)
 
-## GitHub Activity
+</div>
 
-<p align="center">
-  <a href="https://github.com/dharmendra3840">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmendra3840&theme=radical" alt="Dharmendra's GitHub Contribution"/>
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra3840&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" alt="GitHub Streak"/>
-</p>
+## 🧠 Problem-Solving Approach
 
-<p align="center">
-  <a href="https://github.com/dharmendra3840"><img alt="Dharmendra's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dharmendra3840&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/dharmendra3840"><img alt="Dharmendra's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dharmendra3840&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
+```javascript
+class SolutionArchitect {
+  constructor(requirements) {
+    this.architecture = "Microservices";
+    this.frontend = "React with TypeScript";
+    this.backend = "Node.js with Express";
+    this.database = "MongoDB Atlas";
+    this.testing = "Jest + Supertest";
+  }
+  
+  deploy() {
+    return "AWS EC2 with CI/CD Pipeline";
+  }
+}
