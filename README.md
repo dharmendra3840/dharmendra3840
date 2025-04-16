@@ -64,9 +64,10 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmendra3840&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra3840&layout=compact&theme=radical&langs_count=8)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dharmendra3840&theme=radical)
+| <img src="https://github-readme-stats.vercel.app/api?username=dharmendra3840&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra3840&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="300"/> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra3840&theme=radical" alt="GitHub Streak" width="400"/>
 
 </div>
 
