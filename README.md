@@ -1,4 +1,3 @@
-```markdown
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D2FF&height=220&section=header&text=Dharmendra%20Kumar%20Mahato&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Building%20the%20Future%20of%20Web&descSize=16&descAlignY=55&descColor=B8B8B8"/>
