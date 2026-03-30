@@ -386,7 +386,7 @@ To activate the **contribution snake animation**, create this file in your profi
 
 **`.github/workflows/snake.yml`**
 
-
+```yaml
 name: Generate Snake
 
 on:
