@@ -26,7 +26,6 @@
 
 ## ⚡ `> whoami`
 
-```yaml
 name: Dharmendra Kumar Mahato
 role: Full-Stack Engineer
 location: India 🇮🇳
@@ -38,7 +37,7 @@ currently:
   exploring: "AI/ML integration in web apps"
 
 philosophy: "Ship fast. Break nothing. Learn everything."
-```
+
 
 <br clear="right"/>
 
@@ -232,7 +231,7 @@ philosophy: "Ship fast. Break nothing. Learn everything."
 <!-- CODING PHILOSOPHY -->
 ## 🧠 How I Think
 
-```javascript
+
 const dharmendra = {
     
     architecture: {
@@ -262,7 +261,7 @@ const dharmendra = {
 
     funFact: "I mass produce bugs first, then squash them like a PRO 🐛→💪"
 };
-```
+
 
 <br/>
 
@@ -280,13 +279,13 @@ const dharmendra = {
 
 **🔥 Currently Vibing On**
 
-```
+
 🎵 Lo-fi beats while debugging
 ☕ Coffee count today: ████████░░ 80%
 🚀 Projects shipped this month: 3
 💻 Lines of code this week: 2,847
 🐛 Bugs squashed: ∞
-```
+
 
 </td>
 <td>
@@ -351,9 +350,9 @@ const dharmendra = {
 <br/><br/>
 
 <!-- METRIC -->
-```
+
  📧 dharmendrak3327mahato@gmail.com    |    💼 Open for opportunities    |    🌏 India
-```
+
 
 </div>
 
@@ -376,9 +375,7 @@ const dharmendra = {
     ║                                      ║
     ╚══════════════════════════════════════╝
 -->
-```
 
----
 
 ## 🐍 Snake Animation Setup (One-Time)
 
@@ -386,7 +383,6 @@ To activate the **contribution snake animation**, create this file in your profi
 
 **`.github/workflows/snake.yml`**
 
-```yaml
 name: Generate Snake
 
 on:
@@ -413,4 +409,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
